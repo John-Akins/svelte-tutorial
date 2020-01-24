@@ -1,0 +1,9 @@
+.select-dropdown.dropdown-trigger {
+    background: rgba(0,0,0,0.03);
+    z-index: 1;
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: rgb(242, 242, 242) !important;
+    border-image: initial !important;
+    border-radius: 2px !important;
+}
